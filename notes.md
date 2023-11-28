@@ -1,0 +1,1 @@
+Run: ytt -f csv.yaml -f annotations.yaml
